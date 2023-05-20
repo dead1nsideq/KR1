@@ -1,0 +1,95 @@
+[
+  [
+    {
+      "name": "Nike",
+      "country": "USA"
+    },
+    [
+      {
+        "name": "sneakers",
+        "dateOfCreation": "2021-10-10",
+        "price": 299,
+        "maker": {
+          "name": "Nike",
+          "country": "USA"
+        }
+      }
+    ]
+  ],
+  [
+    {
+      "name": "Gucci",
+      "country": "Ukraine"
+    },
+    [
+      {
+        "name": "sweatshirt",
+        "dateOfCreation": "2023-12-10",
+        "price": 1000,
+        "maker": {
+          "name": "Gucci",
+          "country": "Ukraine"
+        }
+      }
+    ]
+  ],
+  [
+    {
+      "name": "Balenciaga",
+      "country": "Ukraine"
+    },
+    [
+      {
+        "name": "jeans",
+        "dateOfCreation": "2021-12-10",
+        "price": 100,
+        "maker": {
+          "name": "Balenciaga",
+          "country": "Ukraine"
+        }
+      }
+    ]
+  ],
+  [
+    {
+      "name": "Gucci",
+      "country": "Italy"
+    },
+    [
+      {
+        "name": "t-shirt",
+        "dateOfCreation": "2023-12-10",
+        "price": 99,
+        "maker": {
+          "name": "Gucci",
+          "country": "Italy"
+        }
+      },
+      {
+        "name": "skirt",
+        "dateOfCreation": "2022-12-10",
+        "price": 150,
+        "maker": {
+          "name": "Gucci",
+          "country": "Italy"
+        }
+      },
+      {
+        "name": "glasses",
+        "dateOfCreation": "2001-10-10",
+        "price": 599,
+        "maker": {
+          "name": "Gucci",
+          "country": "Italy"
+        }
+      }
+    ]
+  ],
+  [
+    {
+      "name": "Prada",
+      "country": "France"
+    },
+    []
+  ]
+]
